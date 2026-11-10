@@ -1,0 +1,42 @@
+[
+  {
+    "id": "slastena",
+    "name": "Мякоть сластены",
+    "category": "Мякоть",
+    "unit_weight": 15,
+    "aliases": [],
+    "icon": "slastena.png"
+  },
+  {
+    "id": "kuborbuz",
+    "name": "Мякоть куборбуза",
+    "category": "Мякоть",
+    "unit_weight": 15,
+    "aliases": [],
+    "icon": "kuborbuz.png"
+  },
+  {
+    "id": "limonnik",
+    "name": "Мякоть лимонника",
+    "category": "Мякоть",
+    "unit_weight": 15,
+    "aliases": [],
+    "icon": "limonnik.png"
+  },
+  {
+    "id": "dust",
+    "name": "Аномальная пыль",
+    "category": "Прочее",
+    "unit_weight": 10,
+    "aliases": [],
+    "icon": "dust.png"
+  },
+  {
+    "id": "solevik",
+    "name": "Мякоть солевика",
+    "category": "Мякоть",
+    "unit_weight": 15,
+    "aliases": [],
+    "icon": "solevik.png"
+  }
+]
